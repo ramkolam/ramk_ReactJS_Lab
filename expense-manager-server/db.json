@@ -1,0 +1,18 @@
+{
+  "expenses": [
+    {
+      "id": "1",
+      "payeeName": "Rahul",
+      "product": "Bike repair",
+      "price": 510,
+      "billDate": "2024-08-01"
+    },
+    {
+      "id": "2",
+      "payeeName": "Ramesh",
+      "product": "Movie",
+      "price": 100.3,
+      "billDate": "2024-08-01"
+    }
+  ]
+}
